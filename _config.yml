@@ -1,16 +1,15 @@
 # Site settings
-title: 读立写生
+title: CLL
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "lalala"  
 baseurl: ""
 url: "http://www.cnfeat.com"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CNFeat@gmail.com
-  bio: "每天写1000字改变自己"
+  name: " cll0818"
+  email: 1242330369@qq.com
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/favicon.png
@@ -33,7 +32,7 @@ paginate: 15
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/NanJing
 
 # Defaults for posts
 defaults:
