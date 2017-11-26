@@ -19,22 +19,22 @@ Windows
 **步骤1：**
 
 首先打开题目，网页出现?me=
-![avatar](F:/URL/图片1.png)
+![](F:/URL/图片1.png)
 
 然后就试着访问/？me=1，网页出现you must be XMAN
-![avatar](F:/URL/图片2.png)
+![](F:/URL/图片2.png)
 
 接着又试了下访问/?me=XMAN，网页上显示的仍然是you must be XMAN
-![avatar](F:/URL/图片3.png)
+![](F:/URL/图片3.png)
 
 试了一遍又一遍......
 终于，访问/?me=SJU,哇，出现了great!
-![avatar](F:/URL/图片4.png)
+![](F:/URL/图片4.png)
 
 **步骤2：**
 
 查看网页源码，看到提示hint
-![avatar](F:/URL/图片5.png)
+![](F:/URL/图片5.png)
 
 猜测是用了urldecode函数对参数解密，因为浏览器会自动会参数解密一次，因此将url编码即可。
 
@@ -47,4 +47,4 @@ Windows
 **步骤3：**
 
 访问/?me=%2553%254A%2555得到flag
-![avatar](F:/URL/图片6.png)
+![](F:/URL/图片6.png)
